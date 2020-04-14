@@ -1,3 +1,3 @@
 # probable-adventure
-# making changing on feature branch.
->>>>>>> 7c5b44a... adding new file
+# making changing on master branch.
+# making new changes
