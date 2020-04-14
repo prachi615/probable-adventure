@@ -1,2 +1,3 @@
 # probable-adventure
-# adding another line for conflicting changes.
+# making changing on feature branch.
+>>>>>>> 7c5b44a... adding new file
